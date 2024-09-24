@@ -1,0 +1,20 @@
+.SixthHighlightWrapper {
+	display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background: #fff;
+}
+.SixthHighlightWrapper .LeftSideWrapper {
+	background-image:  url(images/home/macbook-pro.jpg); 
+	background-size: initial;
+	background-color: #fafafa;
+	background-position: bottom;
+}
+.SixthHighlightWrapper .RightSideWrapper {
+	background-image:  url(images/home/new-ipad.jpg); 
+}
+.product-title-small {
+	font-weight: 700;
+	font-size: 45px;
+    
+}
